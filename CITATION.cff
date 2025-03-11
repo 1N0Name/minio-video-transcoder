@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: minio-video-transcoder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ivan
+    family-names: Zakharov
+    email: mainchantiko@gmail.com
+    affiliation: >-
+      Department of Applied Informatics, Pitirim Sorokin
+      Syktyvkar State University, Syktyvkar, Russia
+  - given-names: Egor
+    family-names: Turyshev
+    email: eg00r.tur@gmail.com
+    affiliation: >-
+      Department of Applied Informatics, Pitirim Sorokin
+      Syktyvkar State University, Syktyvkar, Russia
+repository-code: 'https://github.com/1N0Name/minio-video-transcoder'
